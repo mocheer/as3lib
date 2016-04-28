@@ -4,7 +4,7 @@ package as3lib.core.encode
 	/**
 	 *@author gyb 
 	 */
-	public  function encodeUtf8(obj: Object):String
+	public function encodeUtf8(obj: Object):String
 	{  
 		if(obj != null && obj != "undefined"){  
 			var oriByteArr: ByteArray = new ByteArray();  

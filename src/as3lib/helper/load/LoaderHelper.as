@@ -4,6 +4,8 @@
  */
 package as3lib.helper.load
 {
+	import as3lib.core.convert.toUrlVariables;
+	
 	import flash.display.Loader;
 	import flash.display.LoaderInfo;
 	import flash.events.Event;

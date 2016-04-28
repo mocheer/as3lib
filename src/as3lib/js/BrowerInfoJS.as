@@ -1,10 +1,10 @@
-package as3lib.ei
+package as3lib.js
 {
 	import flash.external.ExternalInterface;
 	/**
 	 * 获取浏览器的信息（包括系统分辨率）
 	 */
-	public class BrowerInfoEI
+	public class BrowerInfoJS
 	{
 		private static var jsXML:XML =   
 			<script>   

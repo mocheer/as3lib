@@ -1,4 +1,4 @@
-package as3lib.ei
+package as3lib.js
 {
 	import flash.display.InteractiveObject;
 	import flash.display.Stage;
@@ -7,7 +7,7 @@ package as3lib.ei
 	/**
 	 * 用于解决Flex设置wmode属性为opaque或transparent时鼠标滚轮失效的问题，js方法
 	 */
-	public class MouseWheelEnableEI
+	public class MouseWheelEnableJS
 	{
 		private const jsXML:XML= 
 			<script><![CDATA[
@@ -171,11 +171,11 @@ package as3lib.ei
 		private var currentItem:InteractiveObject;
 		private var browserMouseEvent:MouseEvent;
 		
-		public static var Instance:MouseWheelEnableEI = new MouseWheelEnableEI();
+		public static var Instance:MouseWheelEnableJS = new MouseWheelEnableJS();
 		//Getter/Setter==================================================================================================
 		
 		//Constructor=====================================================================================================
-		public function MouseWheelEnableEI()
+		public function MouseWheelEnableJS()
 		{
 		}
 		//Function========================================================================================================

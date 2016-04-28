@@ -3,6 +3,8 @@
  */
 package as3lib.helper.load
 {
+	import as3lib.core.convert.toUrlVariables;
+	
 	import flash.events.Event;
 	import flash.events.IOErrorEvent;
 	import flash.net.URLRequest;

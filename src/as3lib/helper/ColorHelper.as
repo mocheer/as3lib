@@ -1,10 +1,8 @@
 /**
- * @author gyb 20141001
+ *
  */
 package as3lib.helper
 {
-
-
 	/**
 	 * 颜色辅助类
 	 */

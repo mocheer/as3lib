@@ -15,7 +15,6 @@
     <classEntry path="as3lib.core.getScaledBitmapData"/>
     <classEntry path="as3lib.helper.load.WebServiceHelper"/>
     <classEntry path="as3lib.core.getTextWidth"/>
-    <classEntry path="as3lib.helper.load.toUrlVariables"/>
     <classEntry path="as3lib.core.array.duplicateAllBySplice"/>
     <classEntry path="as3lib.core.convert.toColor"/>
     <classEntry path="as3lib.core.cookie.getCookie"/>
@@ -41,14 +40,14 @@
     <classEntry path="as3lib.helper.load.LoaderHelper"/>
     <classEntry path="as3lib.helper.DateHelper"/>
     <classEntry path="as3lib.core.valid.string.isQQ"/>
-    <classEntry path="as3lib.ei.MouseWheelEnableEI"/>
+    <classEntry path="as3lib.js.MouseWheelEnableJS"/>
     <classEntry path="as3lib.helper.load.HTTPServiceHelper"/>
     <classEntry path="as3lib.core.export.exportImg"/>
     <classEntry path="as3lib.core.convert.toBinary"/>
     <classEntry path="as3lib.core.random.randomBoolean"/>
     <classEntry path="as3lib.core.valid.isXML"/>
     <classEntry path="as3lib.core.string.trimArrayElements"/>
-    <classEntry path="as3lib.ei.BrowerInfoEI"/>
+    <classEntry path="as3lib.js.BrowerInfoJS"/>
     <classEntry path="as3lib.core.js.reloadJS"/>
     <classEntry path="as3lib.helper.BitmapHelper"/>
     <classEntry path="as3lib.core.string.format"/>
@@ -81,6 +80,16 @@
     <classEntry path="as3lib.core.valid.string.isEmail"/>
     <classEntry path="as3lib.core.getStringNumeric"/>
     <classEntry path="as3lib.core.valid.isEmpty"/>
+    <classEntry path="as3lib.format.DateFormat"/>
+    <classEntry path="as3lib.encode.BitString"/>
+    <classEntry path="as3lib.encode.JPGEncoder"/>
+    <classEntry path="as3lib.encode.PNGEncoder"/>
+    <classEntry path="as3lib.control.MultiTimer"/>
+    <classEntry path="as3lib.control.HandlerDelegate"/>
+    <classEntry path="as3lib.control.GraphicsControl"/>
+    <classEntry path="as3lib.helper.wave.PCMFormat"/>
+    <classEntry path="as3lib.helper.wave.WaveSoundEvent"/>
+    <classEntry path="as3lib.helper.wave.WaveSound"/>
   </includeClasses>
   <includeResources/>
   <namespaceManifests/>
